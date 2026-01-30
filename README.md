@@ -11,7 +11,7 @@
 <img width="1260" height="740" alt="image" src="https://github.com/user-attachments/assets/22b60f44-dab3-4b6a-8415-5eed5224e5b9" />
 
 
-**Features: **
+**Features:**
 
 1. Offline Authentication (Condition: File access is blocked for the user)
 2. Easily integrable program
