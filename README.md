@@ -1,8 +1,8 @@
 Introduction: 
 
 
--Shadow_Login is a Python-based GUI authentication system built using Tkinter, featuring secure encrypted credential storage, role-based access control (Admin/User), and a fully interactive interface.
--This project demonstrates how traditional login systems can be enhanced with custom encryption, file-based secure storage, and admin-level management, all wrapped in a modern GUI.
+1. Shadow_Login is a Python-based GUI authentication system built using Tkinter, featuring secure encrypted credential storage, role-based access control (Admin/User), and a fully interactive interface.
+2. This project demonstrates how traditional login systems can be enhanced with custom encryption, file-based secure storage, and admin-level management, all wrapped in a modern GUI.
 
 
 Intial Page: 
@@ -12,16 +12,16 @@ Intial Page:
 
 
 Features: 
--Offline Authentication (Condition: File access is blocked for the user) 
--Easily integrable program
--Ability to create account
--Admin accounts which can create new admins and delete existing users (except admins)
--Ability to change password
+1. Offline Authentication (Condition: File access is blocked for the user)
+2. Easily integrable program
+3. Ability to create account
+4. Admin accounts which can create new admins and delete existing users (except admins)
+5. Ability to change password
 
 
 Requirements: 
--TKinter
--Pillow
+1. TKinter
+2. Pillow
 
 
 Login Page: 
@@ -74,16 +74,16 @@ Deleting user becomes a necessity in case of security breach. Hence this system 
 
 
 Key Limitations in this Project: 
--As whole system being offline, if the user gains the ability to access files, all passwords can be decrypted. 
--Usage of encryption-decryption is a very risky method.
--Not-so-good looking UI due to Tkinter's limitations.
+1. As whole system being offline, if the user gains the ability to access files, all passwords can be decrypted.
+2. Usage of encryption-decryption is a very risky method.
+3. Not-so-good looking UI due to Tkinter's limitations.
 
 
 Future Goals: 
--Usage of hashing for storage of passwords.
--Shifting of password and encryption keys file to a secured cloud storage.
--Making the project hybrid i.e. can be used for offline programs and as well as for online websites as well.
--UI Tweaks
+1. Usage of hashing for storage of passwords.
+2. Shifting of password and encryption keys file to a secured cloud storage.
+3. Making the project hybrid i.e. can be used for offline programs and as well as for online websites as well.
+4. UI Tweaks
 
 
 
